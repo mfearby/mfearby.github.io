@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cribcalc/static/css/main.0db4aeeb.chunk.css",
+    "main.js": "/cribcalc/static/js/main.1b8dcfee.chunk.js",
+    "runtime-main.js": "/cribcalc/static/js/runtime-main.1c5b10c1.js",
+    "static/js/2.660c6735.chunk.js": "/cribcalc/static/js/2.660c6735.chunk.js",
+    "static/css/3.3274957b.chunk.css": "/cribcalc/static/css/3.3274957b.chunk.css",
+    "static/js/3.12b1600d.chunk.js": "/cribcalc/static/js/3.12b1600d.chunk.js",
+    "static/css/4.8f14f0c2.chunk.css": "/cribcalc/static/css/4.8f14f0c2.chunk.css",
+    "static/js/4.de578aad.chunk.js": "/cribcalc/static/js/4.de578aad.chunk.js",
+    "index.html": "/cribcalc/index.html",
+    "service-worker.js": "/cribcalc/service-worker.js",
+    "static/js/2.660c6735.chunk.js.LICENSE.txt": "/cribcalc/static/js/2.660c6735.chunk.js.LICENSE.txt",
+    "static/media/clubs.2d5adac6.svg": "/cribcalc/static/media/clubs.2d5adac6.svg",
+    "static/media/diamonds.50b00183.svg": "/cribcalc/static/media/diamonds.50b00183.svg",
+    "static/media/hearts.1cadf3da.svg": "/cribcalc/static/media/hearts.1cadf3da.svg",
+    "static/media/spades.5c315f12.svg": "/cribcalc/static/media/spades.5c315f12.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c5b10c1.js",
+    "static/js/2.660c6735.chunk.js",
+    "static/css/main.0db4aeeb.chunk.css",
+    "static/js/main.1b8dcfee.chunk.js"
+  ]
+}
